@@ -65,7 +65,7 @@ printf("Exibindo dados\n");
             else if (media[i] < 5)
 
             {
-                printf("RECUPERAÇAO\n");
+                printf("REPROVADO\n");
             }
 
 
