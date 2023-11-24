@@ -66,7 +66,6 @@ for (j = 0; j < cont; j++){
 
     
 
-printf("Total de vendas", vendas[200]);
 
 
 
