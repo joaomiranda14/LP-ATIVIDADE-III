@@ -7,11 +7,11 @@ int main()
 
     setlocale(LC_ALL, "portuguese");
 
-    char numeros[99][100];
+    char numeros[50][100];
     int codigo;
     int i;
     int contador= 0;
-    char nomes[99][200];
+    char nomes[50][200];
 
     printf("Menu");
     printf("\n\n1 -Cadastrar novo contato na lista telefonica \n");
@@ -36,6 +36,7 @@ int main()
 
     printf("\nDigite a opção desejada: ");
      scanf("%d", &codigo);
+        
         system("cls || clear");
         contador++;
 
